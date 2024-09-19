@@ -5,6 +5,13 @@ namespace CIS3285_Unit3Sample_2024.Controllers
 {
     public class RoomController : Controller
     {
+
+        /****
+         * 
+         * added a comment in user Story 1
+         * 
+         */
+
         // GET: RoomController
         public ActionResult Index()
         {
