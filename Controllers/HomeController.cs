@@ -6,6 +6,7 @@ namespace CIS3285_Unit3Sample_2024.Controllers
 {
     public class HomeController : Controller
     {
+        // Tom added this comment
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
