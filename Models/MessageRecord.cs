@@ -2,6 +2,12 @@
 {
     public class MessageRecord
     {
+        /// <summary>
+        /// Added comment for story 1
+        /// </summary>
+        /// <param name="roomID"></param>
+        /// <param name="authorName"></param>
+        /// <param name="text"></param>
         public MessageRecord(int roomID, string authorName, string text)
         {
             RoomID = roomID;
