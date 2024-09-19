@@ -9,6 +9,10 @@
             AuthorName = authorName;
         }
 
+        /// <summary>
+        ///   Tom story 2A
+        /// </summary>
+
         public int RoomID
         {
             get;
