@@ -13,6 +13,8 @@
             RoomID = roomID;
             Text = text;
             AuthorName = authorName;
+
+            // Changes Sprint User Story 2A: I want to send markdown text that will be correctly formatted. -- Nora Peterson
         }
 
         /// <summary>
@@ -29,6 +31,7 @@
         {
             get;
             private set;
+            // Changes Sprint User Story 2A: I want to send markdown text that will be correctly formatted. -- Nora Peterson
         }
 
         public string AuthorName
